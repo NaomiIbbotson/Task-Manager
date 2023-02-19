@@ -16,9 +16,9 @@ The program is now installed.
 ### Usage:
 Open a terminal window in the folder where the program is stored
 Type python3 task_manger.py to run the program in your terminal window.
-The first time you use this program you will have to log in as Admin
-Username: admin
-Password: adm1n
+The first time you use this program you will have to log in as admin:
+- Username: admin
+- Password: adm1n
 
 You will be presented with a menu where you can:
 - Register a user
